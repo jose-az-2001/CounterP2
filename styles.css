@@ -56,4 +56,12 @@ section h2{
     color: #1883ba;
     background-color: #ffffff;
 }
+footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background:#999;
+ }
 
